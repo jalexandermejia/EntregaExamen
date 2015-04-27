@@ -1,0 +1,102 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Webparcial.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Webparcial.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Antlr3.Runtime.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.AspNet.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.Core.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\EntityFramework.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\System.Web.Optimization.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\System.Web.Providers.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\WebGrease.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\EntityFramework.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.Core.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\DotNetOpenAuth.AspNet.xml
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\es\EntityFramework.resources.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\es\System.Web.Optimization.resources.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\es\System.Web.Providers.resources.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\obj\Debug\Webparcial.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\obj\Debug\Webparcial.dll
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\Webparcial\Webparcial\obj\Debug\Webparcial.pdb
+E:\Webparcial\Webparcial\bin\Webparcial.dll
+E:\Webparcial\Webparcial\bin\Webparcial.pdb
+E:\Webparcial\Webparcial\bin\Antlr3.Runtime.dll
+E:\Webparcial\Webparcial\bin\AspNet.ScriptManager.jQuery.dll
+E:\Webparcial\Webparcial\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.AspNet.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.Core.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.dll
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Webparcial\Webparcial\bin\EntityFramework.dll
+E:\Webparcial\Webparcial\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Webparcial\Webparcial\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Webparcial\Webparcial\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Webparcial\Webparcial\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Webparcial\Webparcial\bin\Microsoft.Web.Infrastructure.dll
+E:\Webparcial\Webparcial\bin\System.Web.Optimization.dll
+E:\Webparcial\Webparcial\bin\System.Web.Providers.dll
+E:\Webparcial\Webparcial\bin\WebGrease.dll
+E:\Webparcial\Webparcial\bin\EntityFramework.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.Core.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Webparcial\Webparcial\bin\DotNetOpenAuth.AspNet.xml
+E:\Webparcial\Webparcial\bin\es\EntityFramework.resources.dll
+E:\Webparcial\Webparcial\bin\es\System.Web.Optimization.resources.dll
+E:\Webparcial\Webparcial\bin\es\System.Web.Providers.resources.dll
+E:\Webparcial\Webparcial\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\Webparcial\Webparcial\obj\Debug\Webparcial.csprojResolveAssemblyReference.cache
+E:\Webparcial\Webparcial\obj\Debug\Webparcial.dll
+E:\Webparcial\Webparcial\obj\Debug\Webparcial.pdb
+E:\AppParcial\Webparcial\bin\Webparcial.dll
+E:\AppParcial\Webparcial\bin\Webparcial.pdb
+E:\AppParcial\Webparcial\bin\Antlr3.Runtime.dll
+E:\AppParcial\Webparcial\bin\AspNet.ScriptManager.jQuery.dll
+E:\AppParcial\Webparcial\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.AspNet.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.Core.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OAuth.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OpenId.dll
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\AppParcial\Webparcial\bin\EntityFramework.dll
+E:\AppParcial\Webparcial\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\AppParcial\Webparcial\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\AppParcial\Webparcial\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\AppParcial\Webparcial\bin\Microsoft.ScriptManager.WebForms.dll
+E:\AppParcial\Webparcial\bin\Microsoft.Web.Infrastructure.dll
+E:\AppParcial\Webparcial\bin\System.Web.Optimization.dll
+E:\AppParcial\Webparcial\bin\System.Web.Providers.dll
+E:\AppParcial\Webparcial\bin\WebGrease.dll
+E:\AppParcial\Webparcial\bin\EntityFramework.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.Core.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OAuth.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OpenId.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\AppParcial\Webparcial\bin\DotNetOpenAuth.AspNet.xml
+E:\AppParcial\Webparcial\bin\es\EntityFramework.resources.dll
+E:\AppParcial\Webparcial\bin\es\System.Web.Optimization.resources.dll
+E:\AppParcial\Webparcial\bin\es\System.Web.Providers.resources.dll
+E:\AppParcial\Webparcial\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\AppParcial\Webparcial\obj\Debug\Webparcial.csprojResolveAssemblyReference.cache
+E:\AppParcial\Webparcial\obj\Debug\Webparcial.dll
+E:\AppParcial\Webparcial\obj\Debug\Webparcial.pdb
